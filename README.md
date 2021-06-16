@@ -53,7 +53,7 @@ from sklearn.model_selection import cross_val_score, KFold
 
 - EDA를 통해서 인사이트를 찾기위해 노력하였습니다. 🧐
 
-![Linear_regression_project%2072df336555de46439185cde066c61e13/Untitled%201.png](Linear_regression_project%2072df336555de46439185cde066c61e13/Untitled%201.png)
+![eda](https://user-images.githubusercontent.com/75258999/122208295-1678a900-cede-11eb-9c2a-0659e75dcba9.gif)
 
 ### 2. 데이터 가공 및 전처리
 
